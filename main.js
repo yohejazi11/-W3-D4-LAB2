@@ -13,7 +13,6 @@ setInterval(function () {
     Box.style.top=positionY+"px";
     Box.style.width=scaleX+"px";
     Box.style.height=scaleY+"px";
-
     Box.style.backgroundColor="#"+color;
 }, 2000);
 
