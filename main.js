@@ -5,7 +5,7 @@ setInterval(function () {
 
     let color=Math.floor(Math.random()*16777215).toString(16);
     let positionX=Math.random()*1000;
-    let positionY=Math.random()*100;
+    let positionY=Math.random()*1000;
 
     let scaleX=Math.random()*1000;
     let scaleY=Math.random()*1000;
